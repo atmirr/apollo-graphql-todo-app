@@ -1,4 +1,4 @@
-# Apollo GraphQL Todo App
+# Apollo GraphQL Todo List Application
 
 A simple todo list app which support adding tasks and subtasks which is built by `Hasura`, `Heroku` and `React`.
 
@@ -11,7 +11,7 @@ This project is powered by yarn.
 
 Once cloned, you have to install the dependencies by running `yarn install`.
 
-⚠️ As I've used free version of `Glitch` service for serving the Hasura actions, you might feel some delay when completing a task! 
+⚠️ As I've used free version of `Glitch` for serving the Hasura actions, you might feel some delay when completing a task! 
 
 These are some useful scripts:
 
