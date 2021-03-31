@@ -4,6 +4,8 @@ A simple todo list app which support adding tasks and subtasks which is built by
 
 Other technologies are included `Typescript`, `Express`, `Nodemon`, `React`, `GraphQL`, `Apollo`, `Material UI`, `Jest` and `React Testing Library` for our unit and integration tests.
 
+[Live Demo](https://stupefied-shirley-8b049f.netlify.app/)
+
 
 ## Available Scripts
 
