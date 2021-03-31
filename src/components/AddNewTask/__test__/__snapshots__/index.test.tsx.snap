@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AddNewTask /> should renders the component 1`] = `
+<div
+  class="MuiFormControl-root MuiTextField-root makeStyles-input-1"
+>
+  <div
+    class="MuiInputBase-root MuiOutlinedInput-root Mui-focused Mui-focused MuiInputBase-formControl"
+  >
+    <input
+      aria-invalid="false"
+      class="MuiInputBase-input MuiOutlinedInput-input"
+      placeholder="Enter a task and press Return ⏎"
+      type="text"
+      value=""
+    />
+    <fieldset
+      aria-hidden="true"
+      class="PrivateNotchedOutline-root-2 MuiOutlinedInput-notchedOutline"
+      style="padding-left: 8px;"
+    >
+      <legend
+        class="PrivateNotchedOutline-legend-3"
+        style="width: 0.01px;"
+      >
+        <span>
+          ​
+        </span>
+      </legend>
+    </fieldset>
+  </div>
+</div>
+`;
