@@ -13,7 +13,7 @@ This project is powered by yarn.
 
 Once cloned, you have to install the dependencies by running `yarn install`.
 
-⚠️ As I've used free version of `Glitch` for serving the Hasura actions, you might feel some delay when completing a task! 
+⚠️ As I have used the free version of `Glitch` for serving the Hasura actions, you might feel some delay when marking a task as completed! 
 
 These are some useful scripts:
 
